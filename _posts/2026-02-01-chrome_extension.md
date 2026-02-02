@@ -5,6 +5,12 @@ categories: [Portfolio]
 tags: [chrome, hotwire, rails8]
 ---
 
-## Password manager in Chrome using Rails 8 and Hotwire
+Blog post forthcoming, including:
+- Bootstrap
+- Devize
+- Stimulus controllers
+- Custom initializers
 
-Blog post forthcoming.
+Possible improvements:
+- Use local CI
+- Use Rails 8 authentication
